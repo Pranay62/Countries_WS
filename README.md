@@ -1,5 +1,3 @@
-# Certainly! Here's an example of a README file in Markdown format for your project:
-
 # Countries of the World: A Simple Example
 
 This project is a web scraping application that retrieves information about all the countries in the world from a single web page. The application uses Python with the requests, pandas, and BeautifulSoup libraries to scrape the data.
